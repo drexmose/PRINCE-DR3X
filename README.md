@@ -1,13 +1,13 @@
  <p align="center">  
   <a href="">
-    <img alt="PRINCE" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="PRINCE-DR3X" width="600" height="350" src="https://telegra.ph/file/bb0e9a5a9a623dd5229bb.jpg">
   </a>
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT"><img title="Author" src="https://img.shields.io/badge/THE PRINCE BOT-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/drexmose/PRINCE-DR3X"><img title="Author" src="https://img.shields.io/badge/PRINCE-DR3X-BOT-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
@@ -19,7 +19,7 @@
  
 <h1 align="center">🛡️ᑭᖇIᑎᑕᕮ ᗷOT ᗰᗪ🛡️</h1>
 
-#### 🪩 To Change the owner number click here [Config](https://github.com/PRINCE-GDS/THE-PRINCE-BOT/blob/main/config.js#L8)🪩
+#### 🪩 To Change the owner number click here [Config](https://github.com/drexmose/PRINCE-DR3X/blob/main/config.js#L8)🪩
 
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
@@ -60,7 +60,7 @@
 
 #### 2. Now deploy
    <br>
-  <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FPRINCE-GDS%2FTHE-PRINCE-BOT&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="140" height="45.45"/></a></p>
+  <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2Fdrexmose%2FPRINCE-DR3X&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="140" height="45.45"/></a></p>
 
 
 <h1 align="left">suᴘᴘoʀт ԍʀouᴘ ʟιɴκ</h1>
