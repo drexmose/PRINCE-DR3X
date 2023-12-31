@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (PRINCE-BOT)",
+  "name": "whatsapp-bot (PRINCE-DR3X-BOT)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/PRINCE-GDS/THE-PRINCE-BOT",
+  "repository": "https://github.com/drexmose/PRINCE-DR3X",
   "stack": "container",
   "env": {
        "DATABASE_URL": {
